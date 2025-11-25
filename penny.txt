@@ -1,1 +1,1 @@
-yourprivatetoken
+github_pat_yourprivatetoken
