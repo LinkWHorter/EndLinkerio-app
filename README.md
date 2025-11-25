@@ -34,7 +34,7 @@ pip install pyinstaller
 pyinstaller --onefile --noconsole --icon=icons/icon.ico --add-data "icons;icons" --add-data "fonts;fonts" --add-data "penny.txt;." --hidden-import=numpy.core._dtype_ctypes --hidden-import=numpy._pytesttester --hidden-import=numpy._distributor_init endlinkerio.py
 ```  
   
-You find your <img width="24" height="24" alt="image" src="https://github.com/LinkWHorter/EndLinkerio-app/blob/master/icons/icon.png" />
+You find your <img width="38" height="38" alt="image" src="https://github.com/LinkWHorter/EndLinkerio-app/blob/master/icons/icon.png" />
  *EndLinkerio.exe* in dist/-folder.  
 You can share this file with friends. 🙂  
   
