@@ -22,7 +22,7 @@ GITHUB_REPO = "USERNAME/PRIVATEREPO"
 ```  
   
 Create the token for private repositories ***WITH NO EXPIRATION DATE*** [here](https://github.com/settings/personal-access-tokens).   
-Paste it directly into the *penny.txt*-file without any additions.  
+Paste it directly into the *[penny.txt](https://github.com/LinkWHorter/EndLinkerio-app/blob/master/penny.txt)*-file without any additions.  
 ```bash
 githab_pat_yourprivatetoken
 ```
