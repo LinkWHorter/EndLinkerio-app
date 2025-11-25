@@ -44,7 +44,7 @@ For adding a new modpack which will be seen by your friend and you, just create 
 And paste here your own pack-files like mods/.jars, resourcepacks/.zips, config/.jsons, saves/, versions/.jars, etc.  
   
 Also you can create server.txt-file in your modpack to auto-write Name and IP of your moded server (if it exists) in ingame server-lists of users.  
-Use next architecture in modpacks/YOUR_PACK_NAME (ver. 1.n.n)/*server.txt*:  
+Use next architecture in modpacks/YOUR_PACK_NAME (ver. 1.n.n)/*[server.txt](https://github.com/LinkWHorter/EndLinkerio-app/blob/master/modpacks/Example%20(ver.%201.21.3)/server.txt)*:  
 > name="Minecraft Online Server"  
 > ip="example.minecrft.org"  
   
