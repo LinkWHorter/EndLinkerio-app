@@ -1,0 +1,2 @@
+name="Minecraft Online Server"
+ip="example.minecrft.org"

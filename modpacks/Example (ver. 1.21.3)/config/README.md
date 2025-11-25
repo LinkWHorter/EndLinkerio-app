@@ -1,0 +1,1 @@
+# Example of file of configs in Minecraft.

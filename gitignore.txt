@@ -1,0 +1,6 @@
+# Ignore all by default
+*
+
+# But don't ignore modpacks folder and what it contains
+!modpacks/
+!modpacks/**
