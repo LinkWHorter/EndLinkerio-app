@@ -1,11 +1,11 @@
-# Paste here your any Minecraft Packs.
+# 🧀 EndLinkerio Python Project 🍈
   
 ***Note:*** *This program fully reloading your mods-folder by default.*  
 *Change this by clicking on \[d\\r\] button in top-right side of window.*  
 - *If d-mode: pack-files in mods-folder will rewriting your own files in .minecraft/mods;*  
 - *If r-mode: pack-files in mods-folder will rewriting your files with creating backups in format .minecraft/mods-1, .minecraft/mods-2, etc.*  
   
-[img]
+<img width="889" height="556" alt="image" src="https://github.com/user-attachments/assets/fd7008fe-efcd-4fea-aa25-98327daf8afe" />
   
 This program is designed for quickly changing (primarily) MODpacks in Minecraft for to make this process take a minimum of your time.  
   
@@ -34,13 +34,15 @@ pip install pyinstaller
 pyinstaller --onefile --noconsole --icon=icons/icon.ico --add-data "icons;icons" --add-data "fonts;fonts" --add-data "penny.txt;." --hidden-import=numpy.core._dtype_ctypes --hidden-import=numpy._pytesttester --hidden-import=numpy._distributor_init endlinkerio.py
 ```  
   
-You find your [img] *EndLinkerio.exe* in dist/-folder.
-You can share this file with friends. ;)
-
-For adding a new modpack which will be seen by your friend and you, just create folder in modpacks by example:
+You find your <img width="24" height="24" alt="image" src="https://github.com/LinkWHorter/EndLinkerio-app/blob/master/icons/icon.png" />
+ *EndLinkerio.exe* in dist/-folder.  
+You can share this file with friends. 🙂  
+  
+For adding a new modpack which will be seen by your friend and you, just create folder in modpacks by example:  
 > modpacks/YOUR_PACK_NAME (ver. 1.n.n)/  
-And paste here your own pack-files like mods/.jars, resourcepacks/.zips, config/.jsons, saves/, versions/.jars, etc.
-
+  
+And paste here your own pack-files like mods/.jars, resourcepacks/.zips, config/.jsons, saves/, versions/.jars, etc.  
+  
 Also you can create server.txt-file in your modpack to auto-write Name and IP of your moded server (if it exists) in ingame server-lists of users.  
 Use next architecture in modpacks/YOUR_PACK_NAME (ver. 1.n.n)/*server.txt*:  
 > name="Minecraft Online Server"  
@@ -55,4 +57,4 @@ git commit -m "YOUR_COMMIT"
 git push origin master  
 ```
 
-Have a nice game to you and your friends! ;)
+✨ Have a nice game to you and your friends! 😉
